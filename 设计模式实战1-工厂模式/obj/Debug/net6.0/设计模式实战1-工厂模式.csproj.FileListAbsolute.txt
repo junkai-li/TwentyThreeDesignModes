@@ -1,0 +1,15 @@
+D:\lizishu\Docker\TwentyThreeDesignModes\设计模式实战1-工厂模式\bin\Debug\net6.0\设计模式实战1-工厂模式.exe
+D:\lizishu\Docker\TwentyThreeDesignModes\设计模式实战1-工厂模式\bin\Debug\net6.0\设计模式实战1-工厂模式.deps.json
+D:\lizishu\Docker\TwentyThreeDesignModes\设计模式实战1-工厂模式\bin\Debug\net6.0\设计模式实战1-工厂模式.runtimeconfig.json
+D:\lizishu\Docker\TwentyThreeDesignModes\设计模式实战1-工厂模式\bin\Debug\net6.0\设计模式实战1-工厂模式.dll
+D:\lizishu\Docker\TwentyThreeDesignModes\设计模式实战1-工厂模式\bin\Debug\net6.0\设计模式实战1-工厂模式.pdb
+D:\lizishu\Docker\TwentyThreeDesignModes\设计模式实战1-工厂模式\obj\Debug\net6.0\设计模式实战1-工厂模式.csproj.AssemblyReference.cache
+D:\lizishu\Docker\TwentyThreeDesignModes\设计模式实战1-工厂模式\obj\Debug\net6.0\设计模式实战1-工厂模式.GeneratedMSBuildEditorConfig.editorconfig
+D:\lizishu\Docker\TwentyThreeDesignModes\设计模式实战1-工厂模式\obj\Debug\net6.0\设计模式实战1-工厂模式.AssemblyInfoInputs.cache
+D:\lizishu\Docker\TwentyThreeDesignModes\设计模式实战1-工厂模式\obj\Debug\net6.0\设计模式实战1-工厂模式.AssemblyInfo.cs
+D:\lizishu\Docker\TwentyThreeDesignModes\设计模式实战1-工厂模式\obj\Debug\net6.0\设计模式实战1-工厂模式.csproj.CoreCompileInputs.cache
+D:\lizishu\Docker\TwentyThreeDesignModes\设计模式实战1-工厂模式\obj\Debug\net6.0\设计模式实战1-工厂模式.dll
+D:\lizishu\Docker\TwentyThreeDesignModes\设计模式实战1-工厂模式\obj\Debug\net6.0\refint\设计模式实战1-工厂模式.dll
+D:\lizishu\Docker\TwentyThreeDesignModes\设计模式实战1-工厂模式\obj\Debug\net6.0\设计模式实战1-工厂模式.pdb
+D:\lizishu\Docker\TwentyThreeDesignModes\设计模式实战1-工厂模式\obj\Debug\net6.0\设计模式实战1-工厂模式.genruntimeconfig.cache
+D:\lizishu\Docker\TwentyThreeDesignModes\设计模式实战1-工厂模式\obj\Debug\net6.0\ref\设计模式实战1-工厂模式.dll
