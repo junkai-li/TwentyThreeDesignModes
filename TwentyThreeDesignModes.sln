@@ -3,11 +3,51 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式实战1-工厂模式", "设计模式实战1-工厂模式\设计模式实战1-工厂模式.csproj", "{E80950B9-8322-45CE-BC29-4CD76971EA5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1，设计模式实战-工厂模式，别具匠心", "设计模式实战1-工厂模式\1，设计模式实战-工厂模式，别具匠心.csproj", "{E80950B9-8322-45CE-BC29-4CD76971EA5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象工厂模式", "抽象工厂模式\抽象工厂模式.csproj", "{23A486CE-C668-4533-A61C-233262119F5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2，设计模式实战-抽象工厂模式，分而治之", "抽象工厂模式\2，设计模式实战-抽象工厂模式，分而治之.csproj", "{23A486CE-C668-4533-A61C-233262119F5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "单例模式", "单例模式\单例模式.csproj", "{68C7BECA-73A6-4F23-A80B-9DECB2089E03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3，设计模式实战-单例模式，我就是天下无双", "单例模式\3，设计模式实战-单例模式，我就是天下无双.csproj", "{68C7BECA-73A6-4F23-A80B-9DECB2089E03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4，设计模式实战-建造者模式，做任何事情都需要步步为营", "建造者模式\4，设计模式实战-建造者模式，做任何事情都需要步步为营.csproj", "{A0B77B74-33C2-476A-A83A-2B5ECC135B95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5，设计模式实战-原型模式，我们就来依法炮制", "原型模式\5，设计模式实战-原型模式，我们就来依法炮制.csproj", "{D850BAF6-B974-43FD-BD05-46CECD03C443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6 ，设计模式实战-适配器模式，承上启下", "适配器模式\6 ，设计模式实战-适配器模式，承上启下.csproj", "{66AA8845-33F2-41EE-B2B8-613AD250C521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7 ，设计模式实战-桥接模式，想做月老吗？", "桥接模式\7 ，设计模式实战-桥接模式，想做月老吗？.csproj", "{8169F61C-4A88-4A7D-9373-EF177770851C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8 ，设计模式实战-过滤器模式，你总是这么挑三拣四", "7-过滤器模式\8 ，设计模式实战-过滤器模式，你总是这么挑三拣四.csproj", "{4CB03A06-CED2-416A-9228-A25BF48A2E72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9，设计模式实战-组合模式", "9-组合模式\9，设计模式实战-组合模式.csproj", "{377BDBAF-505A-4BA6-8710-6425E77FB3C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11，设计模式实战-门面模式", "10-装饰器模式\11，设计模式实战-门面模式.csproj", "{B55248BE-CD9C-4BB1-8319-4765FD105044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 ，设计模式实战-装饰器模式，教你怎么为代码添砖加瓦", "十一门面模式\10 ，设计模式实战-装饰器模式，教你怎么为代码添砖加瓦.csproj", "{70808F5E-89DE-4471-83C5-AD805A279F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12，设计模式实战-代理模式，来看看主公如何托孤", "12，设计模式实战-代理模式，来看看主公如何托孤\12，设计模式实战-代理模式，来看看主公如何托孤.csproj", "{78D0680F-E45F-4DFC-A266-918B9E0685D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13，设计模式实战-责任链模式，超级实用", "13，设计模式实战-责任链模式，超级实用\13，设计模式实战-责任链模式，超级实用.csproj", "{080189DC-5D56-4DE1-8718-450F1AFA4939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14，设计模式实战-命令模式", "14，设计模式实战-命令模式\14，设计模式实战-命令模式.csproj", "{9204DB6C-E2EE-4B2B-8290-3C10A34B96B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15，设计模式实战-解释器模式，今天给你解疑答惑", "15，设计模式实战-解释器模式，今天给你解疑答惑\15，设计模式实战-解释器模式，今天给你解疑答惑.csproj", "{E23140A9-552B-482B-989C-641AAE544105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16，设计模式实战-迭代器模式，最常用的设计模式之一", "16，设计模式实战-迭代器模式，最常用的设计模式之一\16，设计模式实战-迭代器模式，最常用的设计模式之一.csproj", "{5EB8D165-4B9C-4505-8B70-026619024F61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17，设计模式实战-中介模式，为你牵桥搭线", "17，设计模式实战-中介模式，为你牵桥搭线\17，设计模式实战-中介模式，为你牵桥搭线.csproj", "{752FD870-8604-4503-AC66-A0ACA480D261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18，设计模式实战-观察者模式，你知道发布订阅怎么实现吗", "ConsoleApp1\18，设计模式实战-观察者模式，你知道发布订阅怎么实现吗.csproj", "{CAB2BE9F-8825-4402-986B-78F87DCC5C38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19，设计模式实战-状态模式，让代码更清爽简洁", "19，设计模式实战-状态模式，让代码更清爽简洁\19，设计模式实战-状态模式，让代码更清爽简洁.csproj", "{5868B3CB-752A-4346-A414-0669C31A163E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20，设计模式实战-空对象模式，你肯定不知道，但是项目中会常用到到", "20，设计模式实战-空对象模式，你肯定不知道，但是项目中会常用到到\20，设计模式实战-空对象模式，你肯定不知道，但是项目中会常用到到.csproj", "{51DF084D-4D68-4720-959B-F9234D916D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21，设计模式实战-策略模式，想让你的代码变幻莫测吗？", "21，设计模式实战-策略模式，想让你的代码变幻莫测吗？\21，设计模式实战-策略模式，想让你的代码变幻莫测吗？.csproj", "{142174E2-FB03-45FF-A634-9F3F249165B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22，设计模式实战-模板模式，代码复用神器", "22，设计模式实战-模板模式，代码复用神器\22，设计模式实战-模板模式，代码复用神器.csproj", "{D9638A2C-E181-44B8-BE03-6008F8C17924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23，设计模式实战-访问者模式，减少代码体积", "23，设计模式实战-访问者模式，减少代码体积\23，设计模式实战-访问者模式，减少代码体积.csproj", "{829BF8BB-6B51-49EE-9E44-6CF49E0E252E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +67,86 @@ Global
 		{68C7BECA-73A6-4F23-A80B-9DECB2089E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68C7BECA-73A6-4F23-A80B-9DECB2089E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68C7BECA-73A6-4F23-A80B-9DECB2089E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B77B74-33C2-476A-A83A-2B5ECC135B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B77B74-33C2-476A-A83A-2B5ECC135B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B77B74-33C2-476A-A83A-2B5ECC135B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B77B74-33C2-476A-A83A-2B5ECC135B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D850BAF6-B974-43FD-BD05-46CECD03C443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D850BAF6-B974-43FD-BD05-46CECD03C443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D850BAF6-B974-43FD-BD05-46CECD03C443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D850BAF6-B974-43FD-BD05-46CECD03C443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66AA8845-33F2-41EE-B2B8-613AD250C521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66AA8845-33F2-41EE-B2B8-613AD250C521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66AA8845-33F2-41EE-B2B8-613AD250C521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66AA8845-33F2-41EE-B2B8-613AD250C521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8169F61C-4A88-4A7D-9373-EF177770851C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8169F61C-4A88-4A7D-9373-EF177770851C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8169F61C-4A88-4A7D-9373-EF177770851C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8169F61C-4A88-4A7D-9373-EF177770851C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CB03A06-CED2-416A-9228-A25BF48A2E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB03A06-CED2-416A-9228-A25BF48A2E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB03A06-CED2-416A-9228-A25BF48A2E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB03A06-CED2-416A-9228-A25BF48A2E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{377BDBAF-505A-4BA6-8710-6425E77FB3C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377BDBAF-505A-4BA6-8710-6425E77FB3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377BDBAF-505A-4BA6-8710-6425E77FB3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377BDBAF-505A-4BA6-8710-6425E77FB3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55248BE-CD9C-4BB1-8319-4765FD105044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55248BE-CD9C-4BB1-8319-4765FD105044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55248BE-CD9C-4BB1-8319-4765FD105044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55248BE-CD9C-4BB1-8319-4765FD105044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70808F5E-89DE-4471-83C5-AD805A279F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70808F5E-89DE-4471-83C5-AD805A279F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70808F5E-89DE-4471-83C5-AD805A279F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70808F5E-89DE-4471-83C5-AD805A279F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78D0680F-E45F-4DFC-A266-918B9E0685D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D0680F-E45F-4DFC-A266-918B9E0685D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D0680F-E45F-4DFC-A266-918B9E0685D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D0680F-E45F-4DFC-A266-918B9E0685D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{080189DC-5D56-4DE1-8718-450F1AFA4939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080189DC-5D56-4DE1-8718-450F1AFA4939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080189DC-5D56-4DE1-8718-450F1AFA4939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080189DC-5D56-4DE1-8718-450F1AFA4939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9204DB6C-E2EE-4B2B-8290-3C10A34B96B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9204DB6C-E2EE-4B2B-8290-3C10A34B96B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9204DB6C-E2EE-4B2B-8290-3C10A34B96B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9204DB6C-E2EE-4B2B-8290-3C10A34B96B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E23140A9-552B-482B-989C-641AAE544105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E23140A9-552B-482B-989C-641AAE544105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E23140A9-552B-482B-989C-641AAE544105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E23140A9-552B-482B-989C-641AAE544105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB8D165-4B9C-4505-8B70-026619024F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB8D165-4B9C-4505-8B70-026619024F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB8D165-4B9C-4505-8B70-026619024F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB8D165-4B9C-4505-8B70-026619024F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752FD870-8604-4503-AC66-A0ACA480D261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752FD870-8604-4503-AC66-A0ACA480D261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752FD870-8604-4503-AC66-A0ACA480D261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752FD870-8604-4503-AC66-A0ACA480D261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB2BE9F-8825-4402-986B-78F87DCC5C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB2BE9F-8825-4402-986B-78F87DCC5C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB2BE9F-8825-4402-986B-78F87DCC5C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB2BE9F-8825-4402-986B-78F87DCC5C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5868B3CB-752A-4346-A414-0669C31A163E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5868B3CB-752A-4346-A414-0669C31A163E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5868B3CB-752A-4346-A414-0669C31A163E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5868B3CB-752A-4346-A414-0669C31A163E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51DF084D-4D68-4720-959B-F9234D916D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DF084D-4D68-4720-959B-F9234D916D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51DF084D-4D68-4720-959B-F9234D916D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51DF084D-4D68-4720-959B-F9234D916D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{142174E2-FB03-45FF-A634-9F3F249165B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142174E2-FB03-45FF-A634-9F3F249165B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142174E2-FB03-45FF-A634-9F3F249165B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142174E2-FB03-45FF-A634-9F3F249165B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9638A2C-E181-44B8-BE03-6008F8C17924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9638A2C-E181-44B8-BE03-6008F8C17924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9638A2C-E181-44B8-BE03-6008F8C17924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9638A2C-E181-44B8-BE03-6008F8C17924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{829BF8BB-6B51-49EE-9E44-6CF49E0E252E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829BF8BB-6B51-49EE-9E44-6CF49E0E252E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829BF8BB-6B51-49EE-9E44-6CF49E0E252E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829BF8BB-6B51-49EE-9E44-6CF49E0E252E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
